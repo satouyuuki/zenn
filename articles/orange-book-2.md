@@ -87,6 +87,7 @@ Index, Type, Type(name), PhysicalStart, NumberOfPages, Attribute
 - メインメモリにはPysicalStart, Type, NumberOfPagesがある。
     - 番地, 番地の使われ方、何ページあるか(ページは4KiB単位)
     - メモリマップの例
+    
 | Type値 | Type名 | 意味 |
 | ---- | ---- | ---- |
 | 1 | EfiLoaderCode | UEFIアプリケーションの実行コード |
