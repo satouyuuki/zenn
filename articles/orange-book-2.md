@@ -40,4 +40,4 @@ https://github.com/satouyuuki/mikanos
 
 ただ写経してるだけだとつまらないので以下のURLを参考にqemuのデバッグを試みたが失敗。(uefiアプリのビルドが全然終わらない)
 https://blog.rkarsnk.jp/post/2021/12/10/debugefiapp/
-走行してるうちに時間が経ってしまったので今日はここまで
+詰まって色々試してるうちに時間が経ってしまったので今日はここまで
