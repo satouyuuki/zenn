@@ -3,7 +3,7 @@ title: "30日後にosを完成させる。(3日目)"
 emoji: "⛳"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["os"]
-published: false
+published: true
 ---
 
 ## やったこと(p80まで)
