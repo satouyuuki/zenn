@@ -44,7 +44,8 @@ extern "C" void KernelMain(const FrameBufferConfig& frame_buffer_config) {
 ターミナルを分割したくterminatorというツールをインストールした。
 これで開発がだいぶやりやすくなった。
 https://cryborg.hatenablog.com/entry/2016/09/03/164940
-
 ctrl+shift+o: ターミナルの分割
 option+上下キー: ターミナルの移動
 
+明日はvimでc++のコード補完をしたい。
+あとvimのパッケージ管理とかを調べる。
