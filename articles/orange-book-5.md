@@ -127,5 +127,5 @@ EFI_STATUS
   );
 ```
 
-ちなみにUINTNはunsigned intのnバイトという意味でosのアーキテクチャによってサイズが異なるみたい。X64だと64バイト。
+ちなみにUINTNはunsigned intのnバイトという意味でosのアーキテクチャによってサイズが異なるみたい。X64だと64bit。
 https://github.com/tianocore/edk2/blob/fbbbd984998d83cf6b69e9291336aefbac23396c/MdePkg/Include/X64/ProcessorBind.h#L211
